@@ -1,0 +1,4 @@
+jack@test.com
+test@test.com
+none@test.com
+hello @ test . com
